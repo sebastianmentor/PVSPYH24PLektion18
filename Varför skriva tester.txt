@@ -1,0 +1,29 @@
+Varför skriva tester?
+Säkerställa korrekthet och pålitlighet
+
+Funktionell verifikation: Tester verifierar att din kod fungerar korrekt under olika förhållanden och med olika indata.
+Förhindrar regressioner: När ny kod läggs till kan tester säkerställa att befintlig funktionalitet inte bryts.
+Tidiga buggarupptäckter
+
+Effektiv felupptäckt: Genom att skriva tester kan du identifiera problem tidigt i utvecklingsprocessen, vilket sparar tid och resurser.
+Snabbare felsökning: Tester kan peka direkt på var i koden ett fel uppstår.
+Underlättar refaktorering
+
+Säker kodförändring: Med ett robust testsuite kan du refaktorera eller förbättra din kod med förtroende, eftersom testerna kommer att upptäcka om något bryts.
+Kontinuerlig förbättring: Tester möjliggör att du kan hålla koden ren och effektiv utan rädsla för att introducera nya buggar.
+Dokumentation
+
+Exempelanvändning: Tester fungerar som levande dokumentation som visar hur funktioner och metoder är tänkta att användas.
+Förtydligar krav: De hjälper till att klargöra vad koden förväntas göra, vilket är särskilt användbart i teammiljöer.
+Förbättrar koddesign
+
+Tvingar till modulär kod: Att skriva tester uppmuntrar till att skapa små, återanvändbara och testbara komponenter.
+Bättre gränssnitt: Du blir mer medveten om hur olika delar av din kod interagerar.
+Ökar förtroendet vid ändringar
+
+Minskad risk: Du kan göra ändringar och lägga till nya funktioner med större säkerhet.
+Snabbare utveckling: Med automatiserade tester kan du snabbare iterera och leverera ny funktionalitet.
+Stödjer kontinuerlig integration och leverans
+
+Automatisering: Tester kan integreras i CI/CD-pipelines för att automatiskt verifiera koden vid varje förändring.
+Kvalitetssäkring: Säkerställer att endast kod som uppfyller kvalitetskraven deployeras.
